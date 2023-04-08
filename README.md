@@ -1,2 +1,2 @@
-# magiosconfigtocsv
+# Nagiosconfigtocsv
 Extract Nagios Configs to CSV
