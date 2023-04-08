@@ -1,4 +1,4 @@
-# magiosconfigtocsv
+# Nagios config to csv
 Extract Nagios Configs to CSV
 
 ![Logo](res/logo.jpg)
